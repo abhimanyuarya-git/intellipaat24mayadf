@@ -1,6 +1,7 @@
 {
 	"name": "DF_CustomerPurchases",
 	"properties": {
+		"description": "DataFlow is for Customer Purchase Filtration for various Customer",
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [
